@@ -1,5 +1,5 @@
 // Typically we would store in {process.env API_KEY}
-const API_KEY = 'c21f7f24a52db29bb4bcd9310e5c634c';
+const API_KEY = 'Enter Your API Key';
 
 const requests = {
   fetchTrending: `/trending/all/week?api_key=${API_KEY}&language=en-US`,
